@@ -1,2 +1,3 @@
 # Geodesic-Dome-Construction
-Find the chord factors and strut lengths of a geodesic dome of any frequency, to any accuracy.
+
+Accurate chord factors and strut lengths are essential for building geodesic dome models. Use this to calculate the chord factors and strut lengths for geodesic dome of any frequency to any accuracy.
